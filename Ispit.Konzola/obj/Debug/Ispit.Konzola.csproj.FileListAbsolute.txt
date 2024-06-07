@@ -1,0 +1,10 @@
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.AssemblyReference.cache
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.CoreCompileInputs.cache
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\bin\Debug\Ispit.Konzola.exe.config
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\bin\Debug\Ispit.Konzola.exe
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\bin\Debug\Ispit.Konzola.pdb
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\bin\Debug\Ispit.Model.dll
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\bin\Debug\Ispit.Model.pdb
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\obj\Debug\Ispit.Ko.64449859.Up2Date
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\obj\Debug\Ispit.Konzola.exe
+E:\Algebra C Taraba\Ispit\Ispit.Konzola\obj\Debug\Ispit.Konzola.pdb
