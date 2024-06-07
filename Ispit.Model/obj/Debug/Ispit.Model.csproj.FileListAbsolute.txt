@@ -1,0 +1,6 @@
+E:\Algebra C Taraba\Ispit\Ispit.Model\bin\Debug\Ispit.Model.dll
+E:\Algebra C Taraba\Ispit\Ispit.Model\bin\Debug\Ispit.Model.pdb
+E:\Algebra C Taraba\Ispit\Ispit.Model\obj\Debug\Ispit.Model.csproj.AssemblyReference.cache
+E:\Algebra C Taraba\Ispit\Ispit.Model\obj\Debug\Ispit.Model.csproj.CoreCompileInputs.cache
+E:\Algebra C Taraba\Ispit\Ispit.Model\obj\Debug\Ispit.Model.dll
+E:\Algebra C Taraba\Ispit\Ispit.Model\obj\Debug\Ispit.Model.pdb
